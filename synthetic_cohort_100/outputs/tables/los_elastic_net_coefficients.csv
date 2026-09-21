@@ -1,0 +1,104 @@
+transformed_feature,coefficient_log1p_los,direction
+n__liver_disease,-0.10861719419646834,lower LOS
+n__ph_first,0.10422753429803656,higher LOS
+c__insurance_Other,-0.09796845825314328,lower LOS
+n__sodium_first,0.08892147510914081,higher LOS
+n__emergency_admission,0.076904700742209,higher LOS
+n__comorbidity_count,0.06570394165556727,higher LOS
+c__current_service_NMED,-0.0595722957744501,lower LOS
+n__diastolic_bp_max,0.04171896720002194,higher LOS
+n__pf_ratio_first,0.039494376108664415,higher LOS
+n__temperature_max,0.03745699643644217,higher LOS
+n__obesity,0.03737770042579325,higher LOS
+n__age,-0.03589880487828862,lower LOS
+n__heart_rate_max,0.03394701207066579,higher LOS
+n__vasopressor_indicator,0.031119864604167203,higher LOS
+n__chronic_pulmonary_disease,-0.030229009598445013,lower LOS
+n__diabetes,0.028997312072591697,higher LOS
+n__albumin_first,-0.027901589505902828,lower LOS
+n__pao2_first,0.025720804669664143,higher LOS
+n__inr_first,0.02562923494541047,higher LOS
+n__alcohol_abuse,0.025343422979731627,higher LOS
+n__paralysis,0.024419808543914238,higher LOS
+n__spo2_min,-0.022372291886195522,lower LOS
+n__metastatic_cancer,-0.02105631393299923,lower LOS
+n__weight_loss,0.018320658271775026,higher LOS
+c__current_service_TRAUM,0.015256355232808038,higher LOS
+n__hypertension,0.015225438933655452,higher LOS
+n__gcs_total_first,-0.01509929958825404,lower LOS
+n__procedure_count,0.014559298782781201,higher LOS
+n__heart_failure,-0.014484682299426701,lower LOS
+n__urine_output_24h,-0.011120403126308447,lower LOS
+n__service_transfer_count,0.01045556873645748,higher LOS
+n__pco2_first,0.006074100023500056,higher LOS
+n__lactate_first,-0.00419733040408818,lower LOS
+n__glucose_first,-0.0035975203607644525,lower LOS
+n__heart_rate_first,0.00358034540391729,higher LOS
+n__wbc_first,0.0030659438487049234,higher LOS
+n__temperature_min,-0.002878108846880922,lower LOS
+n__respiratory_rate_max,0.0013980037461579701,higher LOS
+n__respiratory_rate_first,0.00011805650399250396,higher LOS
+c__admission_type_Eu Observation,-0.0,higher LOS
+c__admission_type_Elective,0.0,higher LOS
+c__admission_type_Direct Observation,0.0,higher LOS
+c__admission_type_Direct Emer.,-0.0,higher LOS
+c__insurance_Medicaid,0.0,higher LOS
+c__marital_status_Widowed,0.0,higher LOS
+c__insurance_Medicare,0.0,higher LOS
+c__marital_status_Unknown,-0.0,higher LOS
+c__marital_status_Single,-0.0,higher LOS
+c__marital_status_Married,0.0,higher LOS
+n__heart_rate_min,0.0,higher LOS
+c__marital_status_Divorced,0.0,higher LOS
+n__spo2_max,-0.0,higher LOS
+c__admission_location_Physician Referral,0.0,higher LOS
+c__admission_type_Ew Emer.,-0.0,higher LOS
+c__current_service_CMED,0.0,higher LOS
+c__previous_service_MED,0.0,higher LOS
+c__previous_service_ED,0.0,higher LOS
+c__previous_service_,-0.0,higher LOS
+c__current_service_SURG,-0.0,higher LOS
+c__current_service_MED,0.0,higher LOS
+c__current_service_CSURG,0.0,higher LOS
+c__admission_location_Walk-In/Self Referral,0.0,higher LOS
+c__admission_type_Observation Admit,0.0,higher LOS
+c__admission_location_Transfer From Hospital,-0.0,higher LOS
+c__race_Other_Or_Unknown,-0.0,higher LOS
+c__admission_location_Emergency Room,0.0,higher LOS
+c__admission_location_Clinic Referral,-0.0,higher LOS
+c__admission_type_Urgent,0.0,higher LOS
+c__admission_type_Surgical Same Day Admission,0.0,higher LOS
+c__race_White,0.0,higher LOS
+n__mechanical_ventilation_indicator,-0.0,higher LOS
+c__race_Hispanic,0.0,higher LOS
+c__race_Black,-0.0,higher LOS
+n__spo2_first,-0.0,higher LOS
+n__depression,-0.0,higher LOS
+n__drug_abuse,0.0,higher LOS
+n__chronic_kidney_disease,0.0,higher LOS
+n__respiratory_rate_min,0.0,higher LOS
+n__mean_arterial_pressure_first,0.0,higher LOS
+n__diastolic_bp_min,0.0,higher LOS
+n__diastolic_bp_first,0.0,higher LOS
+n__bicarbonate_first,0.0,higher LOS
+n__creatinine_first,0.0,higher LOS
+n__platelet_count_first,0.0,higher LOS
+n__systolic_bp_max,-0.0,higher LOS
+n__bun_first,0.0,higher LOS
+n__hemoglobin_first,0.0,higher LOS
+n__hematocrit_first,-0.0,higher LOS
+n__potassium_first,0.0,higher LOS
+n__chloride_first,-0.0,higher LOS
+n__systolic_bp_min,-0.0,higher LOS
+n__bilirubin_first,-0.0,higher LOS
+n__gcs_motor_first,-0.0,higher LOS
+n__gcs_verbal_first,-0.0,higher LOS
+n__gcs_eyes_first,-0.0,higher LOS
+n__surgery_indicator,-0.0,higher LOS
+n__temperature_first,0.0,higher LOS
+n__systolic_bp_first,-0.0,higher LOS
+n__icu_admission_indicator,-0.0,higher LOS
+c__gender_F,0.0,higher LOS
+c__gender_M,-0.0,higher LOS
+c__race_Asian,-0.0,higher LOS
+c__previous_service_SURG,-0.0,higher LOS

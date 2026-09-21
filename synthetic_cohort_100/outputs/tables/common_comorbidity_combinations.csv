@@ -1,0 +1,16 @@
+combination,count
+None,4
+diabetes + hypertension,4
+depression + hypertension,3
+hypertension,3
+chronic_pulmonary_disease,2
+alcohol_abuse + diabetes,2
+chronic_pulmonary_disease + diabetes + hypertension + obesity,2
+hypertension + obesity,2
+chronic_pulmonary_disease + diabetes + hypertension,2
+hypertension + liver_disease,2
+depression + hypertension + obesity,2
+alcohol_abuse + hypertension + obesity,2
+alcohol_abuse + chronic_kidney_disease + chronic_pulmonary_disease + hypertension + liver_disease + obesity,1
+alcohol_abuse + depression + diabetes + heart_failure,1
+chronic_kidney_disease + diabetes + hypertension + obesity,1

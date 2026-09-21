@@ -1,0 +1,13 @@
+random_seed: 42
+n_patients: 100
+prediction_windows:
+  los: first_24_hours
+  readmission: through_index_discharge
+predictors:
+  demographics: [age, gender, race, insurance, marital_status, admission_type, admission_location, emergency_admission]
+  vitals: [heart_rate_first, heart_rate_min, heart_rate_max, systolic_bp_first, systolic_bp_min, systolic_bp_max, diastolic_bp_first, diastolic_bp_min, diastolic_bp_max, mean_arterial_pressure_first, respiratory_rate_first, respiratory_rate_min, respiratory_rate_max, spo2_first, spo2_min, spo2_max, temperature_first, temperature_min, temperature_max]
+  comorbidities: [heart_failure, hypertension, metastatic_cancer, obesity, alcohol_abuse, depression, paralysis, diabetes, weight_loss, drug_abuse, chronic_kidney_disease, chronic_pulmonary_disease, liver_disease, comorbidity_count]
+  laboratory_chart: [pao2_first, pco2_first, pf_ratio_first, ph_first, bicarbonate_first, creatinine_first, lactate_first, platelet_count_first, sodium_first, bun_first, wbc_first, hemoglobin_first, hematocrit_first, potassium_first, chloride_first, glucose_first, albumin_first, bilirubin_first, inr_first]
+  services_interventions: [gcs_motor_first, gcs_verbal_first, gcs_eyes_first, gcs_total_first, urine_output_24h, current_service, previous_service, surgery_indicator, mechanical_ventilation_indicator, vasopressor_indicator, icu_admission_indicator, procedure_count, service_transfer_count]
+outcomes: [hospital_los_days, readmitted_30d]
+

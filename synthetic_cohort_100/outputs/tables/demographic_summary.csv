@@ -1,0 +1,17 @@
+variable,level,count,percentage
+gender,F,61.0,61.0
+gender,M,39.0,39.0
+race,White,67.0,67.0
+race,Black,16.0,16.0
+race,Other_Or_Unknown,11.0,11.0
+race,Hispanic,3.0,3.0
+race,Asian,3.0,3.0
+age_summary,mean,57.65,
+age_summary,std,19.97947178804517,
+age_summary,median,61.5,
+age_summary,q1,44.75,
+age_summary,q3,73.0,
+age_group,18-39,22.0,22.0
+age_group,40-59,26.0,26.0
+age_group,60-79,39.0,39.0
+age_group,80+,13.0,13.0

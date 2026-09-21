@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+execution_log.txt
+
+# NEVER commit real MIMIC-IV data or anything derived from it at patient level
+mimic-iv*/
+*.csv.gz
+source_modeling_table.parquet
+analysis_ready_source*

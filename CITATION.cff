@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Learning EHR Data Processing and Modeling with a Synthetic MIMIC-IV Cohort"
+message: "If you use this repository, please cite it as below."
+type: software
+authors:
+  - family-names: Bhasuran
+    given-names: Balu
+license: MIT

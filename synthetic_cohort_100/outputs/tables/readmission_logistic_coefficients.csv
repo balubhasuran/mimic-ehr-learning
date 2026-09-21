@@ -1,0 +1,104 @@
+transformed_feature,log_odds_coefficient,direction
+n__chronic_kidney_disease,2.2142329869081583,higher readmission odds
+n__comorbidity_count,0.943468349303498,higher readmission odds
+n__gcs_eyes_first,0.6070261997057403,higher readmission odds
+c__previous_service_SURG,-0.49415457643914895,lower readmission odds
+n__platelet_count_first,-0.43941714007931537,lower readmission odds
+n__alcohol_abuse,0.4072556790174795,higher readmission odds
+n__pf_ratio_first,-0.39148854358258073,lower readmission odds
+n__gcs_verbal_first,-0.38334061618282095,lower readmission odds
+n__urine_output_24h,-0.3582015553773887,lower readmission odds
+n__chloride_first,0.3500493227058455,higher readmission odds
+n__service_transfer_count,-0.33010835844979625,lower readmission odds
+n__mechanical_ventilation_indicator,0.3298414437857941,higher readmission odds
+c__previous_service_ED,0.32887002188449277,higher readmission odds
+n__chronic_pulmonary_disease,0.32774123935564703,higher readmission odds
+c__admission_location_Physician Referral,0.3103381658341835,higher readmission odds
+n__hypertension,0.2963925168002859,higher readmission odds
+c__insurance_Medicare,0.29150409921645404,higher readmission odds
+n__procedure_count,-0.28289929617681703,lower readmission odds
+c__gender_F,-0.2787358612605619,lower readmission odds
+c__gender_M,0.27835975300891097,higher readmission odds
+n__hematocrit_first,-0.27616602434380133,lower readmission odds
+c__admission_location_Transfer From Hospital,-0.2668075451241393,lower readmission odds
+n__icu_admission_indicator,-0.26671540455406717,lower readmission odds
+c__previous_service_MED,0.2593965278738392,higher readmission odds
+c__insurance_Other,-0.25794884112624833,lower readmission odds
+n__age,-0.24454255632978658,lower readmission odds
+n__spo2_min,-0.2389037465452339,lower readmission odds
+n__diabetes,-0.2196928270461105,lower readmission odds
+n__potassium_first,0.21856932553730624,higher readmission odds
+n__bun_first,-0.2062178550104178,lower readmission odds
+n__weight_loss,-0.2013795517732923,lower readmission odds
+n__inr_first,0.19554848213775128,higher readmission odds
+n__paralysis,0.1944021147941333,higher readmission odds
+n__metastatic_cancer,-0.17817067523098654,lower readmission odds
+n__respiratory_rate_min,-0.17022702715984406,lower readmission odds
+n__respiratory_rate_max,0.1650956089016014,higher readmission odds
+c__admission_type_Direct Observation,0.1630764972272442,higher readmission odds
+n__systolic_bp_min,-0.16018261227297975,lower readmission odds
+n__albumin_first,-0.15012412267678554,lower readmission odds
+n__surgery_indicator,0.14549854382574534,higher readmission odds
+n__systolic_bp_first,-0.14549368182902048,lower readmission odds
+n__drug_abuse,0.14409282696567915,higher readmission odds
+n__liver_disease,-0.1438398273814192,lower readmission odds
+c__admission_location_Emergency Room,-0.1409936481005582,lower readmission odds
+n__depression,-0.1323215266404711,lower readmission odds
+n__systolic_bp_max,-0.13020213685328055,lower readmission odds
+c__current_service_CSURG,0.1211387436301843,higher readmission odds
+n__glucose_first,-0.12084179763201675,lower readmission odds
+n__vasopressor_indicator,0.11927105737622508,higher readmission odds
+c__admission_type_Observation Admit,-0.11813049888921523,lower readmission odds
+c__admission_location_Walk-In/Self Referral,0.10577835482522266,higher readmission odds
+n__spo2_first,-0.10397637032546592,lower readmission odds
+n__hemoglobin_first,0.1034694243362905,higher readmission odds
+n__wbc_first,-0.10166952722796883,lower readmission odds
+n__obesity,0.09706406809745509,higher readmission odds
+c__previous_service_,-0.09448808157083387,lower readmission odds
+n__pao2_first,0.09367418368098829,higher readmission odds
+c__race_Asian,-0.0926382775213351,lower readmission odds
+c__race_Black,0.09259282706811639,higher readmission odds
+n__lactate_first,-0.08856911370473929,lower readmission odds
+n__mean_arterial_pressure_first,-0.08647396185156071,lower readmission odds
+n__pco2_first,-0.08542264178991536,lower readmission odds
+c__admission_type_Surgical Same Day Admission,-0.08514693709970839,lower readmission odds
+c__admission_type_Ew Emer.,0.0791383952330491,higher readmission odds
+c__current_service_TRAUM,-0.07736862108427074,lower readmission odds
+n__creatinine_first,-0.07217976201465655,lower readmission odds
+n__sodium_first,-0.06628263685806769,lower readmission odds
+n__gcs_total_first,0.056787584216858936,higher readmission odds
+n__bicarbonate_first,0.05588820198998966,higher readmission odds
+n__ph_first,-0.05570408227693552,lower readmission odds
+c__current_service_MED,0.05286872241028581,higher readmission odds
+c__current_service_SURG,-0.052847593622022085,lower readmission odds
+n__temperature_min,0.04982279442795255,higher readmission odds
+n__spo2_max,0.049032144961995094,higher readmission odds
+c__admission_type_Eu Observation,-0.045130270488817306,lower readmission odds
+c__admission_type_Elective,0.04484013484704474,higher readmission odds
+c__current_service_CMED,-0.04432546317015125,lower readmission odds
+c__race_Other_Or_Unknown,-0.03729722910797753,lower readmission odds
+n__temperature_max,-0.03422581381218882,lower readmission odds
+c__insurance_Medicaid,-0.033931366341856464,lower readmission odds
+c__admission_type_Direct Emer.,-0.031012250784687098,lower readmission odds
+c__marital_status_Married,0.027022382701141857,higher readmission odds
+n__emergency_admission,-0.02451380984922789,lower readmission odds
+c__race_White,0.02420828550754151,higher readmission odds
+c__marital_status_Single,-0.023723633853950262,lower readmission odds
+n__heart_failure,0.020801307518428003,higher readmission odds
+c__marital_status_Unknown,0.020539415088938195,higher readmission odds
+n__diastolic_bp_min,-0.016786901524434343,lower readmission odds
+n__heart_rate_max,0.015373982671455358,higher readmission odds
+n__diastolic_bp_max,0.013567520503588068,higher readmission odds
+c__marital_status_Divorced,-0.013346160451914415,lower readmission odds
+n__gcs_motor_first,-0.013275423916902392,lower readmission odds
+c__race_Hispanic,0.012758285802003881,higher readmission odds
+c__marital_status_Widowed,-0.010868111735866236,lower readmission odds
+c__admission_location_Clinic Referral,-0.008691435686359404,lower readmission odds
+n__bilirubin_first,-0.008157269776200984,lower readmission odds
+c__admission_type_Urgent,-0.008011178296560935,lower readmission odds
+n__temperature_first,0.005876955453882328,higher readmission odds
+n__heart_rate_first,0.005617565286802594,higher readmission odds
+n__respiratory_rate_first,-0.004037698811413681,lower readmission odds
+n__heart_rate_min,-0.003956660774442134,lower readmission odds
+n__diastolic_bp_first,-0.0016913368977101147,lower readmission odds
+c__current_service_NMED,0.00015810358432314858,higher readmission odds

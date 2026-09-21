@@ -1,0 +1,2 @@
+unique_patients,admissions,icu_stays,predictor_variables,overall_missingness_pct,median_hospital_los_days,los_iqr,readmission_count,readmission_pct
+100,120,37,73,12.192307692307693,3.5897466412876726,2.976078609702488,20,20.0

@@ -1,0 +1,6 @@
+metric,value
+candidate_profiles_generated,2000
+rejected_by_validity,149
+rejected_by_similarity,655
+rare_classes_combined,2
+final_profiles,1000

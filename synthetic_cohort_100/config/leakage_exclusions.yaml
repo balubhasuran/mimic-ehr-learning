@@ -1,0 +1,20 @@
+los:
+  - dischtime
+  - outtime
+  - los
+  - hospital_los_days
+  - discharge_location
+  - deathtime
+  - readmitted_30d
+  - future_admission_date
+  - post_24h_measurements
+  - future_procedures
+  - future_services
+readmission:
+  - readmitted_30d
+  - subsequent_hadm_id
+  - subsequent_admittime
+  - subsequent_diagnoses
+  - subsequent_procedures
+  - future_utilization
+

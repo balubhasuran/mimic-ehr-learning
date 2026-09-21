@@ -1,0 +1,6 @@
+metric,value
+exact_row_duplicates,0.0
+near_duplicates,0.0
+minimum_normalized_distance,0.025092049220426085
+median_normalized_distance,0.036982068286802505
+near_duplicate_threshold,0.025

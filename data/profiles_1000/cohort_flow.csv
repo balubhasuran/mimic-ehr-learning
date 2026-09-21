@@ -1,0 +1,10 @@
+stage,n_admissions
+initial_admissions,431231
+adult_admissions,431231
+valid_length_of_stay,430401
+with_diagnosis,430030
+one_admission_per_patient,180462
+after_missing_data_rules,180462
+generator_development,144370
+private_real_holdout,36092
+final_synthetic_profiles,1000
